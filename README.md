@@ -36,9 +36,9 @@ I love networking and connecting with people of different backgrounds and hence 
 You can connect with me here-
 </p>
 
-
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/RumeshW)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">]( www.linkedin.com/in/irumesh/)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/irumesh)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://irumesh.github.io/home/404%20Error%20page/index.html)
 
 ## 💻 Languages and Tools
 
