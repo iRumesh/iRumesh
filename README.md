@@ -46,16 +46,19 @@ You can connect with me here-
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/bash-original.svg" alt="bash" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/css3-original.svg" alt="css3" width="40" height="40"/> </a>   
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a 
 <a href="https://www.apache.org/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/apache-original-wordmark.svg" alt="apache" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.latex-project.org/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/latex-original.svg" alt="latex" width="40" height="40"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="[https://www.gnu.org/software/bash/](https://code.visualstudio.com/)" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a> 
+<a href="https://easyeda.com/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/easyeda.png" alt="easyeda" width="40" height="40"/> </a> 
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/matlab-original.svg" alt="matlab" width="40" height="40"/> </a> 
 
 
  </p>
