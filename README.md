@@ -40,7 +40,7 @@ You can connect with me here-
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">]( www.linkedin.com/in/irumesh/)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://irumesh.github.io/home/404%20Error%20page/index.html)
 
-## 💻 Languages and Tools
+## 🚀 Languages and Tools
 
 <p align="left"> 
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/bash-original.svg" alt="bash" width="40" height="40"/> </a> 
@@ -64,10 +64,15 @@ You can connect with me here-
 <a href="https://www.plexim.com/products/plecs" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/plexim.png" alt="PLECS" width="65" height="40"/> </a> 
 <a href="https://www.labcenter.com/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/proteus-logo-with-text.png" alt="proteus" width="80" height="40"/> </a> 
 <a href="https://colab.research.google.com/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/Jupyter.webp" alt="GC_JNP" width="80" height="40"/> </a> 
+</p>
 
 
- </p>
-
+## 💻 Operating System
+<p align="left">
+<a href="" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/windows8-original.svg" alt="" width="40" height="40"/> </a> 
+<a href="" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/linux-original.svg" alt="" width="40" height="40"/> </a> 
+<!--- <a href="" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/tails-logo-square-notagline.svg" alt="" width="40" height="40"/> </a> -->
+</p>
 <!---
 <p align=center >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=irumesh" /> 
