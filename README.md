@@ -17,8 +17,7 @@ An enthusiastic individual who loves exploring new technology and who has the ab
 - 🌱 I’m currently looking for <b>Intership Opportunities</b>
 - 🔭 I’m currently exploring <b>IoT & Embedded Systems</b>
 - 💬 Ask me about **Electronics** , **Open Source Contributions** and **Linux system**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 Reach me at : **irumesh.work@gmail.com**
+- 👯 I’m looking to collaborate on **Open Source Projects** <!-- - 📫 Reach me at : -->
 - ⚡ Fun fact: I love repairing the broken and travelling to explore new places.
 - ❤️ Trying to be a better person through a wisdom of knowledge. 
 <br/>
@@ -37,6 +36,7 @@ You can connect with me here-
 </p>
 
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/RumeshW)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:name@email.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://irumesh.github.io/home/404%20Error%20page/index.html)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://irumesh.github.io/home/404%20Error%20page/index.html)
 
