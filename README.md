@@ -2,7 +2,7 @@
 # Hey there 👋🏻, I'm [Rumesh](https://irumesh.is-a.dev/)!
 <p style = "line-height: 80%">
 An enthusiastic individual who loves exploring new technology and who has the ability to come up with better solutions.  <br/>
-  ✨ A Electrical & Electronics Engineer and an Open Linux Enthusiast <br/>
+  ✨ A Electrical & Electronics Engineer and Linux Enthusiast <br/>
   🌱 I work closely electrical and electronics systems <br/>
   ✔️ I believe in sharing, learning and growing together. Extremely motivated to develop my skills constantly and grow professionally. Also, I possess
     great communication and leadership skills.
