@@ -1,5 +1,12 @@
 ![](https://github.com/iRumesh/iRumesh/blob/main/assets/header_.png)
-# Hey there 👋🏻, I'm [Rumesh](https://irumesh.is-a.dev/)!
+# Holà Amigo 👋🏻, I'm [Rumesh](https://irumesh.is-a.dev/)!
+### About 🙋🏻‍♂️
+```python
+Name = "Rumesh"
+$ whoami = ['Electrical & Electronic Engineer','Developer','Coder','Linux Lover','Noobie']
+Occupation = "Engineer"
+Favourite Quote: "Remember my friend, Hugs are worth more than handshakes.","You wanna make an omelet, you gotta break some eggs."
+```
 <p style = "line-height: 80%">
 An enthusiastic individual who loves exploring new technology and who has the ability to come up with better solutions.  <br/>
   ✨ A Electrical & Electronics Engineer and Linux Enthusiast <br/>
@@ -14,7 +21,7 @@ An enthusiastic individual who loves exploring new technology and who has the ab
 
 <img align="right" alt="Coding" width="400" src="https://github.com/iRumesh/iRumesh/blob/main/assets/cover.png">
 
-- 🌱 I’m currently looking for <b>Intership Opportunities</b>
+- 🌱 I’m currently looking for <b>Intership/Job Opportunities</b>
 - 🔭 I’m currently exploring <b>IoT & Embedded Systems</b>
 - 💬 Ask me about **Electronics** , **Open Source Contributions** and **Linux system**
 - 👯 I’m looking to collaborate on **Open Source Projects** <!-- - 📫 Reach me at : -->
