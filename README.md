@@ -4,7 +4,7 @@
 ```python
 Name = "Rumesh"
 $ whoami = ['Electrical & Electronic Engineer','Developer','Coder','Linux Lover','Noobie']
-Occupation = "Engineer"
+Occupation = "Problem Solver"
 Favourite Quote: "Remember my friend, Hugs are worth more than handshakes.","You wanna make an omelet, you gotta break some eggs."
 ```
 <p style = "line-height: 80%">
@@ -49,7 +49,9 @@ You can connect with me here-
 
 ## 🚀 Languages and Tools
 
+Coding : <br />
 <p align="left"> 
+<code>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/bash-original.svg" alt="bash" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a> 
@@ -62,6 +64,10 @@ You can connect with me here-
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://www.latex-project.org/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/latex-original.svg" alt="latex" width="40" height="40"/> </a> 
+<a href="https://colab.research.google.com/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/Jupyter.webp" alt="GC_JNP" width="80" height="40"/> </a> </code>
+
+EDA :<br />
+<p align="left"> <code>
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="[https://www.gnu.org/software/bash/](https://code.visualstudio.com/)" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a> 
 <a href="https://easyeda.com/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/easyeda.png" alt="easyeda" width="40" height="40"/> </a> 
@@ -70,8 +76,8 @@ You can connect with me here-
 <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/ltspice.png" alt="LTSpice" width="40" height="40"/> </a> 
 <a href="https://www.plexim.com/products/plecs" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/plexim.png" alt="PLECS" width="65" height="40"/> </a> 
 <a href="https://www.labcenter.com/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/proteus-logo-with-text.png" alt="proteus" width="80" height="40"/> </a> 
-<a href="https://colab.research.google.com/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/Jupyter.webp" alt="GC_JNP" width="80" height="40"/> </a> 
-</p>
+
+</p></code>
 
 
 ## 💻 Operating System
