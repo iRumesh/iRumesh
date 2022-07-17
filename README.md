@@ -1,5 +1,5 @@
 ![](https://github.com/iRumesh/iRumesh/blob/main/assets/header_.png)
-# Holà Amigo 👋🏻, I'm [Rumesh](https://irumesh.is-a.dev/)!
+# Holà Amigo 👋🏻, I'm [Rumesh](https://irumesh.github.io/)!
 ### About 🙋🏻‍♂️
 ```python
 Name = "Rumesh"
