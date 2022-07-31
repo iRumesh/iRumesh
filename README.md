@@ -1,5 +1,9 @@
 ![](https://github.com/iRumesh/iRumesh/blob/main/assets/header_.png)
-# Holà Amigo 👋🏻, I'm [Rumesh](https://irumesh.github.io/)!
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=25&vCenter=true&height=30&lines=Holà+Amigo%2C+I'm+Rumesh;I'm+an+Engineer.;Thank+you+for+checking+on+my+github)](mailto:irumesh.work@gmail.com)
+
+
+<!--- # Holà Amigo 👋🏻, I'm [Rumesh](https://irumesh.github.io/)! --->
 ### About 🙋🏻‍♂️
 ```python
 Name = "Rumesh"
@@ -133,3 +137,5 @@ Here are some ideas to get you started:
 iRumesh/iRumesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=F70000&size=25&vCenter=true&height=20&lines=Adiós!)](mailto:irumesh.work@gmail.com)
