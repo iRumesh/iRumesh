@@ -1,6 +1,6 @@
 ![](https://github.com/iRumesh/iRumesh/blob/main/assets/header_.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=25&vCenter=true&height=30&lines=Holà+Amigo%2C+I'm+Rumesh;I'm+an+Engineer.;Thank+you+for+checking+on+my+github)](mailto:irumesh.work@gmail.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=20&vCenter=true&height=18&lines=Holà+Amigo%2C+I'm+Rumesh;I'm+an+Engineer.;Thank+you+for+checking+on+my+github)](mailto:irumesh.work@gmail.com)
 
 
 <!--- # Holà Amigo 👋🏻, I'm [Rumesh](https://irumesh.github.io/)! --->
