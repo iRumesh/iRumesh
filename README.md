@@ -76,6 +76,7 @@ EDA :<br />
 <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/ltspice.png" alt="LTSpice" width="40" height="40"/> </a> 
 <a href="https://www.plexim.com/products/plecs" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/plexim.png" alt="PLECS" width="65" height="40"/> </a> 
 <a href="https://www.labcenter.com/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/proteus-logo-with-text.png" alt="proteus" width="80" height="40"/> </a> 
+<a href="https://www.xilinx.com/content/dam/xilinx/support/documents/sw_manuals/xilinx14_7/irn.pdf" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/Xilinx ISE.png" alt="Xilinx ISE" width="40" height="40"/> </a> 
 
 </p></code>
 
