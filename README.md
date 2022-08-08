@@ -9,7 +9,8 @@
 Name = "Rumesh"
 $ whoami = ['Electrical & Electronic Engineer','Developer','Coder','Linux Lover','Noobie']
 Occupation = "Problem Solver"
-Favourite Quote: "Remember my friend, Hugs are worth more than handshakes.","You wanna make an omelet, you gotta break some eggs."
+Favourite Quotes: "Remember my friend, Hugs are worth more than handshakes.","You wanna make an omelet, you gotta break some eggs."
+                  "It's not who I am underneath, but what I do that defines me."
 ```
 <p style = "line-height: 80%">
 An enthusiastic individual who loves exploring new technology and who has the ability to come up with better solutions.  <br/>
