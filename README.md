@@ -9,7 +9,8 @@
 Name = "Rumesh"
 $ whoami = ['Electrical & Electronic Engineer','Developer','Coder','Linux Lover','Noobie']
 Occupation = "Problem Solver"
-Favourite Quotes: "Remember my friend, Hugs are worth more than handshakes.","You wanna make an omelet, you gotta break some eggs."
+Favourite Quotes: "Remember my friend, Hugs are worth more than handshakes.",
+                  "You wanna make an Omelette, you gotta break some eggs."
                   "It's not who I am underneath, but what I do that defines me."
 ```
 <p style = "line-height: 80%">
@@ -37,7 +38,7 @@ An enthusiastic individual who loves exploring new technology and who has the ab
 <!--
 ## 🚀 My Blogs
 I love exploring technology and documenting stuff that I come across and find interesting. Hoping that you will love reading it :)<br><br>
-[<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">](https://blogs.aakanksha.is-a.dev/)
+[<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">]()
 -->
 
 ## 🤝 Connect with me
@@ -93,46 +94,6 @@ EDA :<br />
 <a href="" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/linux-original.svg" alt="" width="40" height="40"/> </a> 
 <!--- <a href="" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/tails-logo-square-notagline.svg" alt="" width="40" height="40"/> </a> -->
 </p>
-<!---
-<p align=center >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=irumesh" /> 
-</p>
-
-<p align=center >
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=irumesh&show_icons=true&locale=en&layout=compact" alt="irumesh" /></p>
-<br/>
-<p align=center >
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irumesh&show_icons=true&locale=en" alt="irumesh" />
-</p>
-
-## ✔ My Projects
-<p>
-Check my repositories below 👇
-</p>
-</div>
---->
-
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irumesh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-### 👉 Front-end
-### 👉 Back-end
-### 👉 Programming Language
-### 👉 Database
-### 👉 Version Control
-### 👉 Others
--->
 
 <!---
 iRumesh/iRumesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
