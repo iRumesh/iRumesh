@@ -78,6 +78,7 @@ EDA :<br />
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="[https://www.gnu.org/software/bash/](https://code.visualstudio.com/)" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a> 
 <a href="https://easyeda.com/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/easyeda.png" alt="easyeda" width="40" height="40"/> </a> 
+<a href="https://www.altium.com/altium-designer/" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/Altium%20Designer%201.svg" alt="Altium Designer" width="80" height="40"/> </a> 
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/matlab-original.svg" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://www.autodesk.com/solutions/electrical-design" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/acade.ico" alt="AE" width="40" height="40"/> </a> 
 <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank"> <img src="https://github.com/iRumesh/iRumesh/blob/main/assets/ltspice.png" alt="LTSpice" width="40" height="40"/> </a> 
