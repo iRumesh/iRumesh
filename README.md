@@ -27,7 +27,7 @@ An enthusiastic individual who loves exploring new technology and who has the ab
 
 <img align="right" alt="Coding" width="400" src="https://github.com/iRumesh/iRumesh/blob/main/assets/cover.png">
 
-- 🌱 I’m currently looking for <b>Intership/Job Opportunities</b>
+- 🌱 I’m currently looking for <b>Inspirations/Intership/Job Opportunities</b>
 - 🔭 I’m currently exploring <b>IoT & Embedded Systems</b>
 - 💬 Ask me about **Electronics** , **Open Source Contributions** and **Linux system**
 - 👯 I’m looking to collaborate on **Open Source Projects** <!-- - 📫 Reach me at : -->
