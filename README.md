@@ -27,12 +27,12 @@ An enthusiastic individual who loves exploring new technology and who has the ab
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irumesh&label=Profile%20views&color=32CD32&style=flat" alt="rumesh" /> </p>
 
 <img align="right" alt="Coding" width="400" src="assets/cover.png">
-- 🌱 I’m currently looking for <b>Opportunities for growth</b>
-- 🔭 I’m currently exploring <b>FastAPI, IIoT & Embedded Systems</b>
-- 💬 Ask me about **Electronics**, **Open Source Contributions**, **Linux system** and **Docker**
-- 👯 I’m looking to collaborate on **Open Source Projects** <!-- - 📫 Reach me at : -->
-- ⚡ Fun fact: I love repairing the broken and travelling to explore new places.
-- ❤️ Trying to be a better person through a wisdom of knowledge. 
+- 🌱 I’m currently looking for <b>Opportunities for growth</b><br>
+- 🔭 I’m currently exploring <b>FastAPI, IIoT & Embedded Systems</b><br>
+- 💬 Ask me about <b>Electronics, Open Source Contributions, Linux system and Docker</b><br>
+- 👯 I’m looking to collaborate on Open Source Projects <!-- - 📫 Reach me at : --><br>
+- ⚡ Fun fact: I love repairing the broken and travelling to explore new places.<br>
+- ❤️ Trying to be a better person through a wisdom of knowledge. <br>
 <br/>
 
 <!--
@@ -49,7 +49,7 @@ You can connect with me here ╰┈➤
 </p>
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/irumesh)
+<!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/irumesh) -->
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/RumeshW)
 <!---
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:)
