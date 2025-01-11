@@ -58,10 +58,31 @@ You can connect with me here ╰┈➤
 --->
 ## 🚀 Languages and Tools
 
-Coding : <br />
+**Embedded System Product Development:**
 <p align="left"> 
-<code>
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="assets/bash-original.svg" alt="bash" width="40" height="40"/> </a> 
+<code><img height="30" src="https://docs.espressif.com/projects/esp-idf/en/stable/esp32/_static/espressif-logo.svg"></code>
+<code><img height="30" src="https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png"></code>
+<!-- <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Atmel_logo.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg"></code>
+<code><img height="30" src="https://blog.digilentinc.com/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png"></code> -->
+<code><img height="30" src="https://banner2.cleanpng.com/20180328/ezw/kisspng-solidworks-computer-aided-design-3d-computer-graph-work-5abb8876c7bd12.1780632115222396068181.jpg"></code>
+<a href="https://www.arduino.cc/" target="_blank"> <img src="assets/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> </a> 
+<a href="[https://www.gnu.org/software/bash/](https://code.visualstudio.com/)" target="_blank"> <img src="assets/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a> 
+<a href="https://easyeda.com/" target="_blank"> <img src="assets/easyeda.png" alt="easyeda" width="40" height="40"/> </a> 
+<a href="https://www.altium.com/altium-designer/" target="_blank"> <img src="assets/Altium%20Designer%201.svg" alt="Altium Designer" width="80" height="40"/> </a> 
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="assets/matlab-original.svg" alt="matlab" width="40" height="40"/> </a> 
+<a href="https://www.autodesk.com/solutions/electrical-design" target="_blank"> <img src="assets/acade.ico" alt="AE" width="40" height="40"/> </a> 
+<a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank"> <img src="assets/ltspice.png" alt="LTSpice" width="40" height="40"/> </a> 
+<a href="https://www.plexim.com/products/plecs" target="_blank"> <img src="assets/plexim.png" alt="PLECS" width="65" height="40"/> </a> 
+<a href="https://www.labcenter.com/" target="_blank"> <img src="assets/proteus-logo-with-text.png" alt="proteus" width="80" height="40"/> </a> 
+<a href="https://www.xilinx.com/content/dam/xilinx/support/documents/sw_manuals/xilinx14_7/irn.pdf" target="_blank"> <img src="assets/Xilinx ISE.png" alt="Xilinx ISE" width="40" height="40"/> </a> 
+</p>
+
+
+
+**Coding :**
+<p align="left"> 
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="assets/bash-original.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="assets/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="assets/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.verilog.com/" target="_blank"> <img src="assets/verilog.svg" alt="verilog" width="40" height="40"/> </a> 
@@ -74,22 +95,7 @@ Coding : <br />
 <a href="https://www.mysql.com/" target="_blank"> <img src="assets/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank"> <img src="assets/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://www.latex-project.org/" target="_blank"> <img src="assets/latex-original.svg" alt="latex" width="40" height="40"/> </a> 
-<a href="https://colab.research.google.com/" target="_blank"> <img src="assets/Jupyter.webp" alt="GC_JNP" width="80" height="40"/> </a> </code>
-
-EDA :<br />
-<p align="left"> <code>
-<a href="https://www.arduino.cc/" target="_blank"> <img src="assets/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="[https://www.gnu.org/software/bash/](https://code.visualstudio.com/)" target="_blank"> <img src="assets/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a> 
-<a href="https://easyeda.com/" target="_blank"> <img src="assets/easyeda.png" alt="easyeda" width="40" height="40"/> </a> 
-<a href="https://www.altium.com/altium-designer/" target="_blank"> <img src="assets/Altium%20Designer%201.svg" alt="Altium Designer" width="80" height="40"/> </a> 
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="assets/matlab-original.svg" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://www.autodesk.com/solutions/electrical-design" target="_blank"> <img src="assets/acade.ico" alt="AE" width="40" height="40"/> </a> 
-<a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank"> <img src="assets/ltspice.png" alt="LTSpice" width="40" height="40"/> </a> 
-<a href="https://www.plexim.com/products/plecs" target="_blank"> <img src="assets/plexim.png" alt="PLECS" width="65" height="40"/> </a> 
-<a href="https://www.labcenter.com/" target="_blank"> <img src="assets/proteus-logo-with-text.png" alt="proteus" width="80" height="40"/> </a> 
-<a href="https://www.xilinx.com/content/dam/xilinx/support/documents/sw_manuals/xilinx14_7/irn.pdf" target="_blank"> <img src="assets/Xilinx ISE.png" alt="Xilinx ISE" width="40" height="40"/> </a> 
-
-</p></code>
+<a href="https://colab.research.google.com/" target="_blank"> <img src="assets/Jupyter.webp" alt="GC_JNP" width="80" height="40"/> </a> 
 
 
 ## 💻 Operating System
