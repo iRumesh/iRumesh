@@ -7,7 +7,7 @@
 ### About 🙋🏻‍♂️
 ```python
 Name = "Rumesh"
-$ whoami = ['Electrical & Electronic Engineer','Developer','Coder','Linux Lover','Noobie']
+$ whoami = ['R & D Engineer', 'Embedded Engineer','Developer','Coder','Linux Lover','Noobie']
 Occupation = "Problem Solver"
 Favourite Quotes: "Remember my friend, Hugs are worth more than handshakes.",
                   "You wanna make an Omelette, you gotta break some eggs."
@@ -25,11 +25,11 @@ An enthusiastic individual who loves exploring new technology and who has the ab
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irumesh&label=Profile%20views&color=32CD32&style=flat" alt="rumesh" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/iRumesh/iRumesh/blob/main/assets/cover.png">
+<img align="right" alt="Coding" width="400" src="assets/cover.png">
 
-- 🌱 I’m currently looking for <b>Inspirations/Intership/Job Opportunities</b>
-- 🔭 I’m currently exploring <b>IoT & Embedded Systems</b>
-- 💬 Ask me about **Electronics** , **Open Source Contributions** and **Linux system**
+- 🌱 I’m currently looking for <b>Opportunities for growth</b>
+- 🔭 I’m currently exploring <b>FastAPI, IIoT & Embedded Systems</b>
+- 💬 Ask me about **Electronics**, **Open Source Contributions**, **Linux system** and **Docker**
 - 👯 I’m looking to collaborate on **Open Source Projects** <!-- - 📫 Reach me at : -->
 - ⚡ Fun fact: I love repairing the broken and travelling to explore new places.
 - ❤️ Trying to be a better person through a wisdom of knowledge. 
