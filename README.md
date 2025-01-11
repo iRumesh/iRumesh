@@ -9,12 +9,12 @@
 Name = "Rumesh"
 $ whoami = ['R & D Engineer', 'Embedded Engineer','Developer','Coder','Linux Lover','Noobie']
 Occupation = "Problem Solver"
-Hardware = "Raspberry Pi Zer 2W, 3B, 4B, 5", "Jetson Nano", "Arduino Family", "ESP Family"
+Hardware = "Raspberry Pi Zero 2W, 3B, 4B, 5", "Jetson Nano", "Arduino Family", "ESP Family"
 Favourite Quotes: "Remember my friend, Hugs are worth more than handshakes.",
                   "You wanna make an Omelette, you gotta break some eggs."
                   "It's not who I am underneath, but what I do that defines me."
 ```
-<p style = "line-height: 80%">
+<!-- <p style = "line-height: 80%">
 An enthusiastic individual who loves exploring new technology and who has the ability to come up with better solutions.  <br/>
   ✨ A Electrical & Electronics Engineer and Linux Enthusiast <br/>
   🌱 I work closely electrical and electronics systems <br/>
@@ -24,7 +24,7 @@ An enthusiastic individual who loves exploring new technology and who has the ab
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irumesh&label=Profile%20views&color=32CD32&style=flat" alt="rumesh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=irumesh&label=Profile%20views&color=32CD32&style=flat" alt="rumesh" /> </p> -->
 
 <img align="right" alt="Coding" width="400" src="assets/cover.png">
 - 🌱 I’m currently looking for <b>Opportunities for growth</b><br>
@@ -41,16 +41,16 @@ I love exploring technology and documenting stuff that I come across and find in
 [<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">]()
 -->
 
-## 🤝 Connect with me
+<!-- ## 🤝 Connect with me
 <p>
 I love networking and connecting with people of different backgrounds and hence I'm an active member of numerous technical and non-technical clubs and societies⚡
 <br/>
 You can connect with me here ╰┈➤
-</p>
+</p> -->
 
 
 <!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/irumesh) -->
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/RumeshW)
+<!-- [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/RumeshW) -->
 <!---
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://rumesh.is-a.dev/home/404%20Error%20page/index.html)
@@ -62,19 +62,21 @@ Coding : <br />
 <p align="left"> 
 <code>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="assets/bash-original.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="assets/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="assets/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.verilog.com/" target="_blank"> <img src="assets/verilog.svg" alt="verilog" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="assets/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="assets/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="assets/css3-original.svg" alt="css3" width="40" height="40"/> </a>   
-<a href="https://getbootstrap.com" target="_blank"> <img src="assets/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a 
-<a href="https://www.apache.org/" target="_blank"> <img src="assets/apache-original-wordmark.svg" alt="apache" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="assets/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank"> <img src="assets/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://www.latex-project.org/" target="_blank"> <img src="assets/latex-original.svg" alt="latex" width="40" height="40"/> </a> 
-<a href="https://colab.research.google.com/" target="_blank"> <img src="assets/Jupyter.webp" alt="GC_JNP" width="80" height="40"/> </a> </code>
+
+<code><a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="assets/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a></code>
+<code><a href="https://www.python.org" target="_blank"> <img src="assets/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a></code>
+<code><a href="https://www.verilog.com/" target="_blank"> <img src="assets/verilog.svg" alt="verilog" width="40" height="40"/> </a></code>
+<code><a href="https://nodejs.org" target="_blank"> <img src="assets/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></code>
+<code><a href="https://www.w3.org/html/" target="_blank"> <img src="assets/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a></code>
+<code><a href="https://www.w3schools.com/css/" target="_blank"> <img src="assets/css3-original.svg" alt="css3" width="40" height="40"/> </a></code>
+<code><a href="https://getbootstrap.com" target="_blank"> <img src="assets/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></code>
+<code><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></code>
+<code><a href="https://www.apache.org/" target="_blank"> <img src="assets/apache-original-wordmark.svg" alt="apache" width="40" height="40"/> </a></code>
+<code><a href="https://www.mysql.com/" target="_blank"> <img src="assets/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></code>
+<code><a href="https://www.php.net" target="_blank"> <img src="assets/php-original.svg" alt="php" width="40" height="40"/> </a></code>
+<code><a href="https://www.latex-project.org/" target="_blank"> <img src="assets/latex-original.svg" alt="latex" width="40" height="40"/> </a></code>
+
+<code><a href="https://colab.research.google.com/" target="_blank"> <img src="assets/Jupyter.webp" alt="GC_JNP" width="80" height="40"/> </a> </code>
 
 EDA :<br />
 <p align="left"> <code>
