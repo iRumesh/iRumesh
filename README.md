@@ -9,7 +9,7 @@
 Name = "Rumesh"
 $ whoami = ['R & D Engineer', 'Embedded Engineer','Developer','Coder','Linux Lover','Noobie']
 Occupation = "Problem Solver"
-Hardware = "Raspberry Pi Zer 2W, 3B, 4B, 5", "Jetson Nano", "Arduino Family", "ESP Family"
+Hardware = "Raspberry Pi Zero 2W, 3B, 4B, 5", "Jetson Nano", "Arduino Family", "ESP Family"
 Favourite Quotes: "Remember my friend, Hugs are worth more than handshakes.",
                   "You wanna make an Omelette, you gotta break some eggs."
                   "It's not who I am underneath, but what I do that defines me."
