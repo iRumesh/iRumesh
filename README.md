@@ -101,6 +101,9 @@ You can connect with me here ╰┈➤
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/70/Docker_logo.png"></code>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 
+**Framework :**
+<p align="left"> 
+<a href="https://fastapi.tiangolo.com"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="40"/></a>
 
 
 
