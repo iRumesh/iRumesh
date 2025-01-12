@@ -77,6 +77,7 @@ You can connect with me here ╰┈➤
 <code><a href="https://www.plexim.com/products/plecs" target="_blank"><img height="30" src="assets/plexim.png"></code>
 <code><a href="https://www.labcenter.com/" target="_blank"><img height="30" src="assets/proteus-logo-with-text.png"></code>
 <a href="https://www.xilinx.com/content/dam/xilinx/support/documents/sw_manuals/xilinx14_7/irn.pdf" target="_blank"> <img src="assets/Xilinx ISE.png" alt="Xilinx ISE" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 </p>
 
 
@@ -98,6 +99,8 @@ You can connect with me here ╰┈➤
 <a href="https://www.latex-project.org/" target="_blank"> <img src="assets/latex-original.svg" alt="latex" width="40" height="40"/> </a> 
 <a href="https://colab.research.google.com/" target="_blank"> <img src="assets/Jupyter.webp" alt="GC_JNP" width="80" height="40"/> </a> 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/70/Docker_logo.png"></code>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+
 
 
 
