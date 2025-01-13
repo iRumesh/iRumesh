@@ -1,4 +1,4 @@
-![](https://github.com/iRumesh/iRumesh/blob/main/assets/header_.png)
+<!--![](https://github.com/iRumesh/iRumesh/blob/main/assets/header_.png)-->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=20&vCenter=true&height=18&lines=Holà+Amigo%2C+I'm+Rumesh;I'm+an+Engineer.;Thank+you+for+checking+on+my+github)](mailto:irumesh.work@gmail.com)
 
@@ -26,36 +26,6 @@ An enthusiastic individual who loves exploring new technology and who has the ab
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irumesh&label=Profile%20views&color=32CD32&style=flat" alt="rumesh" /> </p> -->
 
-<img align="right" alt="Coding" width="400" src="assets/cover.png">
-- 🌱 I’m currently looking for <b>Opportunities for growth</b><br>
-- 🔭 I’m currently exploring <b>FastAPI, IIoT & Embedded Systems</b><br>
-- 💬 Ask me about <b>Electronics, Open Source Contributions, Linux system and Docker</b><br>
-- 👯 I’m looking to collaborate on Open Source Projects <!-- - 📫 Reach me at : --><br>
-- ⚡ Fun fact: I love repairing the broken and travelling to explore new places.<br>
-- ❤️ Trying to be a better person through a wisdom of knowledge. <br>
-<br/>
-
-<!--
-## 🚀 My Blogs
-I love exploring technology and documenting stuff that I come across and find interesting. Hoping that you will love reading it :)<br><br>
-[<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">]()
--->
-
-## 🤝 Connect with me
-<p>
-I love networking and connecting with people of different backgrounds and hence I'm an active member of numerous technical and non-technical clubs and societies⚡
-<br/>
-You can connect with me here ╰┈➤
-</p>
-
-<!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/irumesh) -->
-<a href="https://t.me/RumeshW" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/irumesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-<!---
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://rumesh.is-a.dev/home/404%20Error%20page/index.html)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://rumesh.is-a.dev/home/404%20Error%20page/index.html)
---->
 ## 🚀 Languages and Tools
 
 **Embedded System Product Development:**
@@ -121,6 +91,40 @@ You can connect with me here ╰┈➤
 <a href="" target="_blank"> <img src="assets/linux-original.svg" alt="" width="40" height="40"/> </a> 
 <!--- <a href="" target="_blank"> <img src="assets/tails-logo-square-notagline.svg" alt="" width="40" height="40"/> </a> -->
 </p>
+
+
+
+
+<img align="right" alt="Coding" width="400" src="assets/cover.png">
+- 🌱 I’m currently looking for <b>Opportunities for growth</b><br>
+- 🔭 I’m currently exploring <b>FastAPI, IIoT & Embedded Systems</b><br>
+- 💬 Ask me about <b>Electronics, Linux system and Docker</b><br>
+- 👯 I’m looking to collaborate on Open Source Projects <!-- - 📫 Reach me at : --><br>
+- ⚡ Fun fact: I love repairing the broken and travelling to explore new places.<br>
+- ❤️ Trying to be a better person through a wisdom of knowledge. <br>
+<br/>
+
+<!--
+## 🚀 My Blogs
+I love exploring technology and documenting stuff that I come across and find interesting. Hoping that you will love reading it :)<br><br>
+[<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">]()
+-->
+
+## 🤝 Connect with me
+<p>
+I love networking and connecting with people of different backgrounds and hence I'm an active member of numerous technical and non-technical clubs and societies⚡
+<br/>
+You can connect with me here ╰┈➤
+</p>
+
+<!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/irumesh) -->
+<a href="https://t.me/RumeshW" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/irumesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<!---
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://rumesh.is-a.dev/home/404%20Error%20page/index.html)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://rumesh.is-a.dev/home/404%20Error%20page/index.html)
+--->
 
 <!---
 iRumesh/iRumesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
